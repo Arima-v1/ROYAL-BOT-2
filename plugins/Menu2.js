@@ -7,8 +7,8 @@ const { levelling } = '../lib/levelling.js'
 import moment from 'moment-timezone'
 import { promises } from 'fs'
 import { join } from 'path'
-const time = moment.tz('Asia/Karachi').format('HH')
-let wib = moment.tz('Asia/Karachi').format('HH:mm:ss')
+const time = moment.tz('Africa/Ivory coast').format('HH')
+let wib = moment.tz('Africa/Ivory coast').format('HH:mm:ss')
 //import db from '../lib/database.js'
 
 let handler = async (m, { conn, usedPrefix, command}) => {
@@ -44,54 +44,54 @@ let str = `
 『 *ULTRA-MD*』
 
 ☆┏━『 *User Info* 』 
-☆┃ 🪪  *Name:* ${name}  
-☆┃ 🏆  *Rank:* ${role}
-☆┃ 🎮  *XP:* ${exp} 
+☆┃ 𓃥*Name:* ${name}  
+☆┃ 𓃠 *Rank:* ${role}
+☆┃𓃰 *XP:* ${exp} 
 ☆┗━━━━━━━━━━⦿
 ☆┏━━ 『 *Date/Time* 』
-☆┃ 📆   ${date} 
-☆┃ ⏰ *Time:*  ${wib} 
+☆┃  𓃱  ${date} 
+☆┃ 𓃯 *Time:*  ${wib} 
 ☆┗━━━━━━━━━━⦿
 ☆┏━━『 *Bot Status* 』
-☆┃  🎩 *Bot Name:* ${botname}
-☆┃ 📣  *Prefix:* ${usedPrefix} 
-☆┃ 🕓  *Uptime:* ${uptime}
+☆┃ 𓃭 *Bot Name:* ${botname}
+☆┃ 𓃸  *Prefix:* ${usedPrefix} 
+☆┃ 𓃵  *Uptime:* ${uptime}
 ☆┗━━━━━━━━━━⦿
 
 ◈┏━⟪ *MENU* ⟫━━⦿
-◈┃• groupmenu
-◈┃• animemenu
-◈┃• autoreact
-◈┃• infoanime
-◈┃• makermenu
-◈┃• ownermenu
-◈┃• stickermenu
-◈┃• toolsmenu
-◈┃• gamesmenu
-◈┃• logomenu
-◈┃• listplugin
-◈┃• economy
-◈┃• reactions
-◈┃• funmenu
-◈┃• nsfwmenu
-◈┃• randompic
-◈┃• randomvid
+◈┃• groupmenu✦
+◈┃• animemenu✦
+◈┃• autoreact✦
+◈┃• infoanime✦
+◈┃• makermenu✦
+◈┃• ownermenu✦
+◈┃• stickermenu✦
+◈┃• toolsmenu✦
+◈┃• gamesmenu✦
+◈┃• logomenu✦
+◈┃• listplugin✦
+◈┃• economy✦
+◈┃• reactions✦
+◈┃• funmenu✦
+◈┃• nsfwmenu✦
+◈┃• randompic✦
+◈┃• randomvid✦
 ◈┃• setprivacy
-◈┃• botmenu
-◈┃• listmenu
-◈┃• dlmenu
-◈┃• enable
-◈┃• aimenu
-◈┃• aeditor
-◈┃• imagen
-◈┃• menu
-◈┃• menu3
-◈┃• menu4
-◈┃• fancy
-◈┃• fancy2
+◈┃• botmenu✦
+◈┃• listmenu✦
+◈┃• dlmenu✦
+◈┃• enable✦
+◈┃• aimenu✦
+◈┃• aeditor✦
+◈┃• imagen✦
+◈┃• menu✦
+◈┃• menu3✦
+◈┃• menu4✦
+◈┃• fancy✦
+◈┃• fancy2✦
 ◈┗━♪♪━★━☆━⦿
 
-© GlobalTechInfo
+© Royal Death Brown
 
 > 💡 *_Remember, when in doubt, use ${usedPrefix}list or ${usedPrefix}help It's like my magic spell book!_* 💡
 `
@@ -118,7 +118,7 @@ function clockString(ms) {
     return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')}
     
     function ucapan() {
-      const time = moment.tz('Asia/Karachi').format('HH')
+      const time = moment.tz('Africa/Ivory coast').format('HH')
       let res = "happy early in the day☀️"
       if (time >= 4) {
         res = "Good Morning 🌄"
