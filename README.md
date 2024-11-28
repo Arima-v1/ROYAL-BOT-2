@@ -53,9 +53,10 @@
    
 ---
 
-  <br>
-   <a href='https://wa.me.+237620934302' target="_blank"
-      <img alt='CALL OWNER'    
+## Développeurs :
+- [**Arima**](https://github.com/djalega8000/Zokou-MD/)
+
+   
      
 
 ---
