@@ -2,29 +2,10 @@
 #### MULTI DEVICE WHATSAPP BOT FORGER | STILL MANY HIDDEN COMMANDS
 
 <p align="center">  
-  <a href="https://youtu.be/nE4v4KWBfAU">
-    <img alt="ULTRA" src="https://i.ibb.co/yhP0jDK/20241114-161433.jpg">
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/GlobalTechInfo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?label=Followers&style=social"></a>
-<a href="https://github.com/GlobalTechInfo/ULTRA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/ULTRA-MD?&style=social"></a>
-<a href="https://github.com/GlobalTechInfo/ULTRA-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/GlobalTechInfo/ULTRA-MD?style=social"></a>
-<a href="https://github.com/GlobalTechInfo/ULTRA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GlobalTechInfo/ULTRA-MD?label=Watching&style=social"></a>
-</p>
-<p align="center">
-  
-----
-
- <p align="center"><img src="https://profile-counter.glitch.me/{ULTRA-MD}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
+![F419CBB8-7B53-4A65-A79D-040AF712C7DD](https://github.com/user-attachments/assets/cd6b9b06-ccf8-496f-93da-8944bbeeeb85)
+a>"
 
 ----
-<h1 align="center"> EXTERNAL PLUGINS </h1>
-
-<p align="center">
-<a href="https://github.com/GlobalTechInfo/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/ULTRA MD-PLUGINS-black?style=for-the-badge&logo=Github"></a>
-<p/>
-
   
 ----
  <h2 align="center">  NOTE
