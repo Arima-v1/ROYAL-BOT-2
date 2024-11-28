@@ -55,7 +55,7 @@
 
 ## Développeurs :
 - [**Arima**](https://github.com/MissAri1/ROYAL-BOT)
-
+- [**ᵀʰᵉ𝚪𝚯𝐘𝚫𝐋ᴰᵉᵃᵗʰ𝐅𝚯𝚪𝐆𝚵𝚪ᴮʳᵒʷⁿ**](https://github.com/MissAri1/ROYAL-BOT)
    
      
 
