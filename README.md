@@ -18,7 +18,7 @@
 ### **Fork & Star the Repository**
    - Start by forking this repository and giving it a ⭐ to support Globaltechinfo!
      To set up the *ROYAL-BOT MD* quickly, first fork this repository:
-     [ROYAL-BOT Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/GlobalTechInfo/ROYAL-BOT/fork)
+     [ROYAL-BOT Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)] (https://github.com/MissAri1/ROYAL-BOT)
 
 ### **PAIRING CODE QR CODE**
    - Visit the bot site to generate a pairing code and get **SESSION ID.**
