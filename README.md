@@ -2,7 +2,9 @@
 #### MULTI DEVICE WHATSAPP BOT FORGER | STILL MANY HIDDEN COMMANDS
 
 
-[F419CBB8-7B53-4A65-A79D-040AF712C7DD](https://github.com/user-attachments/assets/cd6b9b06-ccf8-496f-93da-8944bbeeeb85)
+
+![FFC8891B-1517-4E35-8780-5F5A950B1E2C](https://github.com/user-attachments/assets/9d60ba17-69c0-4e65-9916-4755fb5258c8)
+
 
 
 ----
