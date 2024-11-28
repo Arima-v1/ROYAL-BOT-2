@@ -54,7 +54,7 @@
 ---
 
 ## Développeurs :
-- [**Arima**](https://github.com/djalega8000/Zokou-MD/)
+- [**Arima**](https://github.com/MissAri1/ROYAL-BOT)
 
    
      
